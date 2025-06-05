@@ -31,6 +31,7 @@ This project implements a Long Short-Term Memory (LSTM) neural network to predic
 The project includes the following visualizations for exploratory data analysis and model evaluation:
 
 - 📘 **Open vs Close Price**
+  ![Alt Text](images/ovc.png)
 - 🔁 **Stock Volume Over Time**
 - 🌡️ **Feature Correlation Heatmap**
 - 📈 **Close Price Over Time**
