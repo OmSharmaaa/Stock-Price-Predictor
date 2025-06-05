@@ -37,6 +37,7 @@ The project includes the following visualizations for exploratory data analysis 
   ![Alt Text](images/v.png)
   
 - 🌡️ **Feature Correlation Heatmap**
+  
   ![Alt Text](images/ch.png)
 
 - 📈 **Close Price Over Time**
