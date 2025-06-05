@@ -32,10 +32,19 @@ The project includes the following visualizations for exploratory data analysis 
 
 - 📘 **Open vs Close Price**
   ![Alt Text](images/ovc.png)
+  
 - 🔁 **Stock Volume Over Time**
+  ![Alt Text](images/v.png)
+  
 - 🌡️ **Feature Correlation Heatmap**
+  ![Alt Text](images/ch.png)
+
 - 📈 **Close Price Over Time**
+  ![Alt Text](images/c.png)
+
 - 🤖 **Actual vs Predicted Closing Prices**
+  ![Alt Text](images/pd.png)
+
 
 ---
 
